@@ -5,7 +5,7 @@ This project analyzes housing market data to understand price patterns, income d
 
 The dashboard was built using **Python, SQL, and Power BI** to perform data cleaning, analysis, and interactive visualization.
 
----
+
 
 ## Tools & Technologies
 - Python (Pandas, Matplotlib)
@@ -14,7 +14,7 @@ The dashboard was built using **Python, SQL, and Power BI** to perform data clea
 - Data Visualization
 - Exploratory Data Analysis (EDA)
 
----
+
 
 ## Dataset
 The dataset contains information about housing characteristics including:
@@ -59,7 +59,7 @@ The dataset contains information about housing characteristics including:
    - Income Range
    - Location slicer
 
----
+
 
 ## Key Insights
 
