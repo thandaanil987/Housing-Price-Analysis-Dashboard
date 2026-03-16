@@ -27,7 +27,7 @@ The dataset contains information about housing characteristics including:
 - Housing median age
 - Latitude and longitude
 
----
+
 
 ## Project Workflow
 
@@ -68,14 +68,14 @@ The dataset contains information about housing characteristics including:
 - Higher median income areas generally have higher house prices.
 - Housing distribution shows that most houses fall within a moderate price range.
 
----
+
 
 ## Dashboard Preview
 Housing Price Analysis Dashboard built using Power BI.
 <img src="housing_dashboard.png" width="900">
 
 
----
+
 
 ## Skills Demonstrated
 - Data Cleaning
@@ -85,7 +85,7 @@ Housing Price Analysis Dashboard built using Power BI.
 - Dashboard Design
 - Business Insight Generation
 
----
+
 
 ## Author
-Anil Kumar
+T Anil Kumar
