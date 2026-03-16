@@ -73,6 +73,7 @@ The dataset contains information about housing characteristics including:
 ## Dashboard Preview
 Housing Price Analysis Dashboard built using Power BI.
 
+<img src="images/housing_dashboard.png" width="900">
 ---
 
 ## Skills Demonstrated
