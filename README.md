@@ -1,18 +1,22 @@
-Housing Price Analysis Dashboard
+# Housing Price Analysis Dashboard
 
-- Project Overview : 
+## Project Overview
 This project analyzes housing market data to understand price patterns, income distribution, population density, and housing availability across different locations. The goal is to extract meaningful insights using data analysis and visualization techniques.
 
 The dashboard was built using **Python, SQL, and Power BI** to perform data cleaning, analysis, and interactive visualization.
 
-Tools & Technologies : 
- - Python (Pandas, Matplotlib)
- - SQL (MySQL)
- - Power BI
- - Data Visualization
- - Exploratory Data Analysis (EDA)
+---
 
-- Dataset :
+## Tools & Technologies
+- Python (Pandas, Matplotlib)
+- SQL (MySQL)
+- Power BI
+- Data Visualization
+- Exploratory Data Analysis (EDA)
+
+---
+
+## Dataset
 The dataset contains information about housing characteristics including:
 
 - Median house value
@@ -23,24 +27,26 @@ The dataset contains information about housing characteristics including:
 - Housing median age
 - Latitude and longitude
 
-- Project Workflow
+---
 
-1. Data Cleaning (Python):
+## Project Workflow
+
+1. **Data Cleaning (Python)**
    - Handled missing values
    - Performed data preprocessing
    - Generated summary statistics
 
-2. Exploratory Data Analysis:
+2. **Exploratory Data Analysis**
    - Income vs house price analysis
    - Population distribution
    - Housing price distribution
 
-3. SQL Analysis:
+3. **SQL Analysis**
    - Aggregated housing statistics
    - Grouped analysis by location
    - Derived metrics for insights
 
-4. Power BI Dashboard:
+4. **Power BI Dashboard**
    Built an interactive dashboard including:
    - KPI Cards (Average Price, Income, Population, Rooms)
    - Average Price by Location
@@ -49,27 +55,35 @@ The dataset contains information about housing characteristics including:
    - Total Rooms by Location
    - House Price Distribution
 
-5. Interactive Filters:
+5. **Interactive Filters**
    - Income Range
    - Location slicer
 
-- Key Insights :
+---
+
+## Key Insights
 
 - Housing prices tend to be higher in areas closer to the ocean.
 - Locations within one hour of the ocean show higher population density.
 - Higher median income areas generally have higher house prices.
 - Housing distribution shows that most houses fall within a moderate price range.
 
-- Dashboard Preview : 
+---
+
+## Dashboard Preview
 Housing Price Analysis Dashboard built using Power BI.
 
-- Skills Demonstrated : 
- Data Cleaning
- Exploratory Data Analysis
- SQL Querying
- Data Visualization
- Dashboard Design
- Business Insight Generation
+---
 
-Author :
-T Anil Kumar
+## Skills Demonstrated
+- Data Cleaning
+- Exploratory Data Analysis
+- SQL Querying
+- Data Visualization
+- Dashboard Design
+- Business Insight Generation
+
+---
+
+## Author
+Anil Kumar
