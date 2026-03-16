@@ -27,7 +27,7 @@ The dataset contains information about housing characteristics including:
 - Housing median age
 - Latitude and longitude
   
-## Dataset files included in this repository:
+## Dataset files :
 
 - [Original Housing Dataset](housing.csv)
 - [Cleaned Housing Dataset](cleaned_housing.csv)
