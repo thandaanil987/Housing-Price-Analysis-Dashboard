@@ -26,6 +26,12 @@ The dataset contains information about housing characteristics including:
 - Ocean proximity
 - Housing median age
 - Latitude and longitude
+  
+## Dataset files included in this repository:
+
+- [Original Housing Dataset](housing.csv)
+- [Cleaned Housing Dataset](cleaned_housing.csv)
+
 
 
 
